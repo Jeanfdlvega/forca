@@ -1,0 +1,45 @@
+
+# Jogo da Forca em Python
+
+Bem-vindo ao Jogo da Forca em Python! Este é um jogo simples onde o objetivo é adivinhar uma palavra secreta, letra por letra.
+
+## Instruções
+
+1. Execute o script em um ambiente Python.
+2. O programa escolhe aleatoriamente uma palavra entre uma lista predefinida.
+3. Você tem um número limitado de tentativas para adivinhar a palavra.
+4. Cada tentativa é feita digitando uma letra.
+5. Se a letra estiver correta, ela será revelada na palavra.
+6. Se a letra estiver incorreta, você perde uma tentativa.
+7. Continue adivinhando até acertar a palavra ou esgotar suas tentativas.
+
+## Como Jogar
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/seu-usuario/jogo-da-forca-python.git
+Navegue até o diretório do jogo:
+bash
+Copy code
+cd jogo-da-forca-python
+Execute o script Python:
+bash
+Copy code
+python jogo_da_forca.py
+Siga as instruções no console para adivinhar a palavra.
+Personalizações
+Você pode personalizar o jogo alterando a lista de palavras ou ajustando o número de tentativas disponíveis diretamente no código.
+
+Requisitos
+Python 3.x
+Contribuição
+Contribuições são bem-vindas! Se encontrar problemas ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+Licença
+Este projeto está licenciado sob a MIT License.
+
+css
+Copy code
+
+Certifique-se de incluir um arquivo `LICENSE` com os detalhes da licença que você escolheu para o seu projeto, por exemplo, a Licença MIT, conforme indicado no exemplo acima.
